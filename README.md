@@ -1,6 +1,6 @@
 # Screen Time Analysis Project
 
-> **Scope** · Self-study data analysis project — published as-is.
+> **Scope** · Coursework from my Data Science & ML internship at Irohub Infotech (2024–25), published here afterwards. Not maintained since.
 
 > [!NOTE]
 > **Built 2025. The ecosystem has moved since.**
