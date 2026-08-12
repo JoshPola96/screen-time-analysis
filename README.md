@@ -1,5 +1,7 @@
 # Screen Time Analysis Project
 
+> **Scope** · Self-study data analysis project — published as-is.
+
 ## Overview
 This project analyzes personal screen time data across different applications to identify usage patterns, notification trends, and app engagement metrics. By visualizing and examining these patterns, the project aims to provide insights into digital habits and potential areas for improved digital wellness.
 
