@@ -2,6 +2,14 @@
 
 > **Scope** · Self-study data analysis project — published as-is.
 
+> [!NOTE]
+> **Built 2025. The ecosystem has moved since.**
+> Dependencies here are unpinned, so a clean `pip install` today resolves to
+> versions that did not exist when this was written and pandas 3.0, numpy 2.5, pytest 9 and black 26 have all landed since. Expect install or
+> runtime breakage on a fresh environment. What is on offer is the engineering
+> approach and the decisions behind it, not a guaranteed-green build.
+> Happy to bring it current if that would be useful — just ask.
+
 ## Overview
 This project analyzes personal screen time data across different applications to identify usage patterns, notification trends, and app engagement metrics. By visualizing and examining these patterns, the project aims to provide insights into digital habits and potential areas for improved digital wellness.
 
